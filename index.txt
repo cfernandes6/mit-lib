@@ -1,1 +1,3 @@
-ENtering first line of text in first repository!
+Entering first line of text in first repository!
+
+Making more changes!
